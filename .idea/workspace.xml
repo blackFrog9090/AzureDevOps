@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45914d1e-1ade-4f61-9e52-2cb218e5de5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tdd/Frank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tdd/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tdd/FrankTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tdd/Dollar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tdd/Dollar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tdd/DollarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tdd/DollarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tdd/Dollar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tdd/Dollar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tdd/DollarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tdd/DollarTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Projects\Junit5\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bCN016PHBOBnbtSMSFqQ1qsgVw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32762313" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tdd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DollarTest.testEquality">
+    <configuration name="DollarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tdd" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.DollarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DollarTest.testEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tdd" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.DollarTest" />
+      <option name="METHOD_NAME" value="testEquality" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DollarTest.testMultiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tdd" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.DollarTest" />
+      <option name="METHOD_NAME" value="testMultiplication" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathUtilsTest$AddTest.testAddNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.juit5" />
+      <option name="MAIN_CLASS_NAME" value="com.juit5.MathUtilsTest$AddTest" />
+      <option name="METHOD_NAME" value="testAddNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathUtilsTest$AddTest.testAddPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.juit5" />
+      <option name="MAIN_CLASS_NAME" value="com.juit5.MathUtilsTest$AddTest" />
+      <option name="METHOD_NAME" value="testAddPositive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathUtilsTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Junit5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.juit5" />
+      <option name="MAIN_CLASS_NAME" value="com.juit5.MathUtilsTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathUtilsTest.testComputeCircleArea" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Junit5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.juit5" />
+      <option name="MAIN_CLASS_NAME" value="com.juit5.MathUtilsTest" />
+      <option name="METHOD_NAME" value="testComputeCircleArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.tdd in Junit5" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Junit5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tdd" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DollarTest.testEquality" />
+        <item itemvalue="JUnit.DollarTest" />
+        <item itemvalue="JUnit.DollarTest.testMultiplication" />
+        <item itemvalue="JUnit.MathUtilsTest$AddTest.testAddPositive" />
+        <item itemvalue="JUnit.MathUtilsTest$AddTest.testAddNegative" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45914d1e-1ade-4f61-9e52-2cb218e5de5c" name="Default Changelist" comment="" />
+      <created>1588131895019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588131895019</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Run simple test">
+      <created>1588134945677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588134945677</updated>
+    </task>
+    <task id="LOCAL-00002" summary="simple TDD">
+      <created>1588136219895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588136219895</updated>
+    </task>
+    <task id="LOCAL-00003" summary="use maven surefire plugin to run test">
+      <created>1588137192064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588137192064</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Before After Annotation">
+      <created>1588140138000</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588140138000</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Assume method">
+      <created>1588141404941</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588141404941</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Nested classes">
+      <created>1588142615991</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588142615991</updated>
+    </task>
+    <task id="LOCAL-00007" summary="use lambda to send error message">
+      <created>1588143683505</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588143683505</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add Dollar, testDollar classes">
+      <created>1588151063042</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588151063042</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Run simple test" />
+    <MESSAGE value="simple TDD" />
+    <MESSAGE value="use maven surefire plugin to run test" />
+    <MESSAGE value="Before After Annotation" />
+    <MESSAGE value="Assume method" />
+    <MESSAGE value="Nested classes" />
+    <MESSAGE value="use lambda to send error message" />
+    <MESSAGE value="add Dollar, testDollar classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Dollar, testDollar classes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1555" y="-53" key="#All_in_Junit5" timestamp="1588149092896">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1555" y="-53" key="#All_in_Junit5/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588149092896" />
+    <state x="-1559" y="-49" width="814" height="776" key="#Intentions" timestamp="1588133521811">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1559" y="-49" width="814" height="776" key="#Intentions/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588133521811" />
+    <state x="-1555" y="-17" key="#MathUtilsTest" timestamp="1588134089217">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1555" y="-33" key="#MathUtilsTest.testComputeCircleArea" timestamp="1588136017840">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1555" y="-33" key="#MathUtilsTest.testComputeCircleArea/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588136017840" />
+    <state x="-1555" y="-17" key="#MathUtilsTest/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588134089217" />
+    <state x="-1559" y="-25" key="#Project_Structure" timestamp="1588133834677">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1559" y="-25" key="#Project_Structure/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588133834677" />
+    <state x="-1697" y="-47" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588149069234">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1697" y="-47" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588149069234" />
+    <state x="-1422" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588149020662">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1422" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588149020662" />
+    <state x="-1397" y="-97" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588151145986">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1397" y="-97" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588151145986" />
+    <state x="-1421" y="63" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588151518456">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1421" y="63" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588151518456" />
+    <state x="-1555" y="-53" key="#com.tdd_in_Junit5" timestamp="1588149146613">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1555" y="-53" key="#com.tdd_in_Junit5/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588149146613" />
+    <state x="-1496" y="-89" width="1008" height="808" key="CommitChangelistDialog2" timestamp="1588151058682">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1496" y="-89" width="1008" height="808" key="CommitChangelistDialog2/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588151058682" />
+    <state x="-1269" y="210" width="258" height="210" key="Github.ShareDialog" timestamp="1588132914148">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1269" y="210" width="258" height="210" key="Github.ShareDialog/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588132914148" />
+    <state x="-1284" y="22" key="Github.UntrackedFilesDialog" timestamp="1588132946878">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1284" y="22" key="Github.UntrackedFilesDialog/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588132946878" />
+    <state width="1492" height="364" key="GridCell.Tab.0.bottom" timestamp="1588152096456">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state width="1492" height="364" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588152096456" />
+    <state width="1492" height="364" key="GridCell.Tab.0.center" timestamp="1588152096456">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state width="1492" height="364" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588152096456" />
+    <state width="1492" height="364" key="GridCell.Tab.0.left" timestamp="1588152096456">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state width="1492" height="364" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588152096456" />
+    <state width="1492" height="364" key="GridCell.Tab.0.right" timestamp="1588152096456">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state width="1492" height="364" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588152096456" />
+    <state x="-1294" y="27" key="RollbackChangesDialog" timestamp="1588132704338">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1294" y="27" key="RollbackChangesDialog/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588132704338" />
+    <state x="-1658" y="15" width="1114" height="707" key="SettingsEditor" timestamp="1588134747914">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1658" y="15" width="1114" height="707" key="SettingsEditor/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588134747914" />
+    <state x="-1559" y="49" key="Vcs.Push.Dialog.v2" timestamp="1588151064776">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1559" y="49" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588151064776" />
+    <state x="-1336" y="94" key="chooseDestDirectoryDialog" timestamp="1588133879562">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1336" y="94" key="chooseDestDirectoryDialog/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588133879562" />
+    <state x="-1455" y="141" key="com.intellij.ide.util.TipDialog" timestamp="1588139165056">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1455" y="141" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588139165056" />
+    <state x="-1489" y="48" width="672" height="678" key="search.everywhere.popup" timestamp="1588142179941">
+      <screen x="-1920" y="-97" width="1536" height="824" />
+    </state>
+    <state x="-1489" y="48" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.-97.1536.824@-1920.-97.1536.824" timestamp="1588142179941" />
+  </component>
+</project>
